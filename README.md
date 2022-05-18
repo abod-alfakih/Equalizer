@@ -7,7 +7,7 @@
   <li>Adjust the gains of 5 different instruments using the respective sliders</li>
 </ul>
 <h2>Tap 1</h2>
-![Hnet-image-min](https://user-images.githubusercontent.com/61319952/169039878-65f21d72-df08-4280-ba83-f3a1869a3c08.gif)
+<img src=https://user-images.githubusercontent.com/61319952/169039878-65f21d72-df08-4280-ba83-f3a1869a3c08.gifclass="img-responsive" alt=""> </div>
 <h2>Tap 2</h2>
 <p>The second tab includes 3 interactive musical instruments that can be tuned using the respective sliders.</p>
 <p>The instruments can be played using shortcut keys as well. (Try hitting some keys!)</p>
