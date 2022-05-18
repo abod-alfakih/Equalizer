@@ -3,7 +3,7 @@
 <ul>
   <li>Load in a .wav audio file</li>
   <li>Play and pause the sample audio</li>
-  <li>Adjust the volume</li>
+  <li>Adjust the volume using a powerbar and a dial</li>
   <li>Adjust the gains of 5 different instruments using the respective sliders</li>
 </ul>
 <h2>Tab 1</h2>
